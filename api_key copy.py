@@ -1,0 +1,1 @@
+api_data = #'YOUR API CODE GOES HERE ' # API key for OpenAI, replace with your actual key
